@@ -48,8 +48,8 @@
 [hej|ok|okay] <lead_tune> {radio_genre} stationen {radio_station} [tak|for mig|lige nu|tak skal du have]
 <lead_tune> {radio_station}, en {radio_genre} station
 [hej|ok|okay] <lead_tune> {radio_station}, en {radio_genre} station [tak|for mig|lige nu|tak skal du have]
-<lead_tune> {radio_station} {radio_genre} stationen
-[hej|ok|okay] <lead_tune> {radio_station} {radio_genre} stationen [tak|for mig|lige nu|tak skal du have]
+<lead_tune> {radio_station} den {radio_genre} station
+[hej|ok|okay] <lead_tune> {radio_station} den {radio_genre} station [tak|for mig|lige nu|tak skal du have]
 <lead_tune> har du noget {radio_genre} radio
 [hej|ok|okay] <lead_tune> har du noget {radio_genre} radio [tak|for mig|lige nu|tak skal du have]
 <lead_tune> har du nogen {radio_genre} stationer
